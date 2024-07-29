@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository
 ```
+- [x] Item
+- [x] Item
+- [ ] Item 
